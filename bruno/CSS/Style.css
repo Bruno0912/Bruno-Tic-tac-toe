@@ -1,0 +1,21 @@
+#cel11,#cel12,#cel13,#cel21,#cel22,#cel23,#cel31,#cel32,#cel33 {
+    width: 70px;
+    height: 50px;
+    border: 2px solid black; 
+    font-size: 50px;
+    text-align: center;
+
+}
+#main {
+    text-align: center;
+    margin: 50px;
+   
+}
+#Botao {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: lightsalmon;
+}
+#body {
+    background-color: grey;
+}
